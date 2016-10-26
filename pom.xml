@@ -18,7 +18,7 @@
         <jdk.version>1.7</jdk.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <github.global.server>github</github.global.server>
-        <repository.name>metro-portfolio-manager-client</repository.name>
+        <repository.name>portfolio-manager</repository.name>
         <repository.owner>wgayton</repository.owner>
     </properties>
 
